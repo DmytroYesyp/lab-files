@@ -1,0 +1,11 @@
+Model Information:
+* title:	PlaneShapes_MaleFigure
+* source:	https://sketchfab.com/3d-models/planeshapes-malefigure-7b0f8605bd7d4f6fa1e5db68f7f46526
+* author:	Slava_Gedich (https://sketchfab.com/Slava_Gedich)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PlaneShapes_MaleFigure" (https://sketchfab.com/3d-models/planeshapes-malefigure-7b0f8605bd7d4f6fa1e5db68f7f46526) by Slava_Gedich (https://sketchfab.com/Slava_Gedich) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
